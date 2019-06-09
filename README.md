@@ -1,1 +1,1 @@
-# Linux-CentOS
+CentOS
